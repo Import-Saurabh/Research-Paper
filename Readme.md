@@ -1,4 +1,4 @@
-# Trade Shocks and Market Shifts
+# Title: Trade Shocks and Market Shifts: Quantifying the Impact of Global Chokepoint Disruptions, Energy Crises, and Geopolitical Conflicts on Oil Prices and Sectoral Market Resilience (2019–2025)
 
 **Simple summary (for everyone):**  
 This project studies how problems in key global sea routes — like the Suez Canal, Panama Canal, and Strait of Hormuz — can make oil prices jump and affect stock markets, especially India’s Nifty sectors. It combines maritime traffic, oil price changes, and financial market reactions.
@@ -24,7 +24,7 @@ Below are the most critical global trade passages we studied.
 | Route | Map | Description |
 |-------|-----|-------------|
 | Suez Canal | ![Suez Canal map](Images/suez_canal.jpg) | Connects Europe and Asia by linking the Mediterranean Sea to the Red Sea. A blockage delays 12% of world trade. |
-| Panama Canal | ![Panama Canal map](Images/Panama_canal.jpg) | Links the Atlantic and Pacific Oceans — essential for global container trade and U.S.–Asia routes. |
+| Panama Canal | ![Panama Canal map](Images/Panama_Canal.jpg) | Links the Atlantic and Pacific Oceans — essential for global container trade and U.S.–Asia routes. |
 | Strait of Hormuz | ![Strait of Hormuz map](Images/strait_of_hormuz.jpg) | The world’s most important oil chokepoint — around 20% of global oil passes through here daily. |
 | Strait of Malacca | ![Strait of Malacca map](Images/strait_of_malacca.jpg) | Vital route between the Indian Ocean and the South China Sea — key for energy shipments to East Asia. |
 | Bab el-Mandeb | ![Bab el-Mandeb map](Images/Bab_el_Mandeb.jpg) | Connects the Red Sea to the Gulf of Aden. When threatened, ships must reroute around Africa. |
